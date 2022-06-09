@@ -1,0 +1,5 @@
+C:\Users\brode\source\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.AssemblyReference.cache
+C:\Users\brode\source\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brode\source\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+C:\Users\brode\source\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+C:\Users\brode\source\repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
